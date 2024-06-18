@@ -1,0 +1,8 @@
+langchain==0.2.3
+langchain-community
+torch
+tiktoken
+GitPython
+transformers
+rich>=13.7.0
+python-dotenv
